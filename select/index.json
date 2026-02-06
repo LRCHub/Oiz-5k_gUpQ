@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Share",
+  "base_artist": "YUKI",
+  "createdAt": "2026-02-06T17:49:50.320567Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Share That Love",
+      "artist": "Lukas Graham",
+      "has_synced": false,
+      "path": "select/01_Share_That_Love_Lukas_Graham.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Share The Land",
+      "artist": "The Guess Who",
+      "has_synced": true,
+      "path": "select/02_Share_The_Land_The_Guess_Who.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Mother We Share",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/03_The_Mother_We_Share_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Mother We Share (Errors remix)",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/04_The_Mother_We_Share_(Errors_remix)_CHVRCHES.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Baby Let Me Share My Love",
+      "artist": "Terence Trent D’Arby",
+      "has_synced": true,
+      "path": "select/05_Baby_Let_Me_Share_My_Love_Terence_Trent_D’Arby.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Baby Let Me Share My Love",
+      "artist": "Terence Trent D'Arby",
+      "has_synced": true,
+      "path": "select/06_Baby_Let_Me_Share_My_Love_Terence_Trent_D'Arby.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "X's We Share",
+      "artist": "Jodeci",
+      "has_synced": false,
+      "path": "select/07_X's_We_Share_Jodeci.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Share My World",
+      "artist": "DeBarge",
+      "has_synced": false,
+      "path": "select/08_Share_My_World_DeBarge.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Share My World",
+      "artist": "DeBarge",
+      "has_synced": true,
+      "path": "select/09_Share_My_World_DeBarge.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Things That We Could Share",
+      "artist": "Groove Armada",
+      "has_synced": true,
+      "path": "select/10_The_Things_That_We_Could_Share_Groove_Armada.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We Share Our Mother's Health",
+      "artist": "The Knife",
+      "has_synced": true,
+      "path": "select/11_We_Share_Our_Mother's_Health_The_Knife.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We Share Our Mothers' Health (Trentemøller Remix)",
+      "artist": "The Knife",
+      "has_synced": false,
+      "path": "select/12_We_Share_Our_Mothers'_Health_(Trentemøller_Remix)_The_Knife.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "We Share Our Mothers' Health (Shaken-Up Live Version)",
+      "artist": "The Knife",
+      "has_synced": false,
+      "path": "select/13_We_Share_Our_Mothers'_Health_(Shaken-Up_Live_Version)_The_Knife.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love Is All We Share",
+      "artist": "Cut Copy",
+      "has_synced": true,
+      "path": "select/14_Love_Is_All_We_Share_Cut_Copy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Memories We Share",
+      "artist": "Cut Copy",
+      "has_synced": true,
+      "path": "select/15_Memories_We_Share_Cut_Copy.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Share",
+      "artist": "Cymbals Eat Guitars",
+      "has_synced": false,
+      "path": "select/16_Share_Cymbals_Eat_Guitars.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Share the Night",
+      "artist": "The Clientele",
+      "has_synced": true,
+      "path": "select/17_Share_the_Night_The_Clientele.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Lion's Share",
+      "artist": "10,000 Maniacs",
+      "has_synced": true,
+      "path": "select/18_The_Lion's_Share_10,000_Maniacs.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "The Mother We Share (Blood Diamonds Remix)",
+      "artist": "CHVRCHES",
+      "has_synced": true,
+      "path": "select/19_The_Mother_We_Share_(Blood_Diamonds_Remix)_CHVRCHES.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Share",
+      "artist": "YUKI",
+      "has_synced": false,
+      "path": "select/pl_01_Share_YUKI.txt"
+    }
+  ]
+}
